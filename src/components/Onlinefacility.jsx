@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 
 function LoginSection() {
     return (
-        <section className="login">
+        <section className="online-login">
             <div className="row">
                 <div className="login-col">
                     <img src="images/student.jpg" alt="Student" height={'350px'} width={'350'} />
